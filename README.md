@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
