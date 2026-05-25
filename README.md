@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Binary Search
@@ -74,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
