@@ -18,11 +18,9 @@ public:
             }
         }
         vec.push_back({m, cnt});
-        for(int i=0;i<vec.size();i++){
-            for(int j=0;j<vec.size()-i-1;j++){
-                if(vec[j].second<vec[j+1].second) swap(vec[j],vec[j+1]);
-            }
-        }
+        sort(vec.begin(), vec.end(), [](const pair<char, int>& a, const pair<char, int>& b) {
+            return a.second > b.second; // Descending order
+        });
         for(int i=0;i<vec.size();i++){
             int b=vec[i].second;
             for(int j=0;j<b;j++){
