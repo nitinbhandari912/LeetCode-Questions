@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 ## Sorting
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
