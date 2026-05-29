@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
