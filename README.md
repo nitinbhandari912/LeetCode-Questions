@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3093-longest-common-suffix-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Greedy
 |  |
