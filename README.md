@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
