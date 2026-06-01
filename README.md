@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
