@@ -1,33 +1,27 @@
 class Solution {
+    int solve(vector<int>& start1, vector<int>& duration1, vector<int>& start2,
+              vector<int>& duration2) {
+        int finish1 = INT_MAX;
+        for (int i = 0; i < start1.size(); i++) {
+            finish1 = min(finish1, start1[i] + duration1[i]);
+        }
+
+        int finish2 = INT_MAX;
+        for (int i = 0; i < start2.size(); i++) {
+            finish2 = min(finish2, max(start2[i], finish1) + duration2[i]);
+        }
+        return finish2;
+    }
+
 public:
-    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-        int n=landStartTime.size();
-        int sum=INT_MAX;
-        for(int i=0;i<n;i++){
-            int m=waterStartTime.size();
-            int tempsum=landStartTime[i]+landDuration[i];
-            for(int j=0;j<m;j++){
-                if(tempsum>=waterStartTime[j]){
-                    sum=min(sum,tempsum+waterDuration[j]);
-                }
-                else{
-                    sum=min(sum,waterDuration[j]+waterStartTime[j]);
-                }
-            }
-        }
-        int m=waterStartTime.size();
-        int sum1=INT_MAX;
-        for(int i=0;i<m;i++){
-            int tempsum=waterStartTime[i]+waterDuration[i];
-            for(int j=0;j<n;j++){
-                if(tempsum>=landStartTime[j]){
-                    sum1=min(sum1,tempsum+landDuration[j]);
-                }
-                else{
-                    sum=min(sum,landDuration[j]+landStartTime[j]);
-                }
-            }
-        }
-        return min(sum,sum1);
+    int earliestFinishTime(vector<int>& landStartTime,
+                           vector<int>& landDuration,
+                           vector<int>& waterStartTime,
+                           vector<int>& waterDuration) {
+        int land_water =
+            solve(landStartTime, landDuration, waterStartTime, waterDuration);
+        int water_land =
+            solve(waterStartTime, waterDuration, landStartTime, landDuration);
+        return min(land_water, water_land);
     }
 };
