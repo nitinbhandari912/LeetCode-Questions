@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
