@@ -2,19 +2,16 @@ class Solution {
 public:
     bool isIsomorphic(string s, string t) {
         if(s.size()!=t.size()) return false;
-        vector<pair<char,char>> vec;
+        unordered_map<char,int> m1;
+        unordered_map<char,int> m2;
         for(int i=0;i<s.size();i++){
-            vec.push_back({s[i],t[i]});
-        }
-        for(int i=0;i<vec.size();i++){
-            for(int j=0;j<vec.size();j++){
-                if(i==j) continue;
-                if(vec[i].first==vec[j].first){
-                    if(vec[i].second!=vec[j].second) return false;
-                }
-                if(vec[i].second==vec[j].second){
-                    if(vec[i].first!=vec[j].first) return false;
-                }
+            if(m1[s[i]]==0 && m2[t[i]]==0){
+                m1[s[i]]=t[i];
+                m2[t[i]]=s[i];
+            }
+            else{
+                if(m1[s[i]]==t[i] && m2[t[i]]==s[i]) continue;
+                else return false;
             }
         }
         return true;
