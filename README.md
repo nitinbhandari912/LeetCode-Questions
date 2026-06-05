@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Depth-First Search
 |  |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
