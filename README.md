@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
