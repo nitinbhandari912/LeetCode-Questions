@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Interactive
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
