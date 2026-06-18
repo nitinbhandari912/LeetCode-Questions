@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
