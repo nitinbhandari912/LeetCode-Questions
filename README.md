@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
 |  |
