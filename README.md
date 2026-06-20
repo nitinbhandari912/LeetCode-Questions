@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
