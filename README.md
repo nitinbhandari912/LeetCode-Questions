@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
