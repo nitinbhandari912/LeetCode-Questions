@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -381,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -471,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
