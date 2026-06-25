@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
