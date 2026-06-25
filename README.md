@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
