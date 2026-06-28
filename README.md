@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
