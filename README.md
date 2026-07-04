@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0055-jump-game) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
