@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
