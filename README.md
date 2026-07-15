@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0263-ugly-number) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0415-add-strings) |
