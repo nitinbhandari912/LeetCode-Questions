@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [1046-last-stone-weight](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
