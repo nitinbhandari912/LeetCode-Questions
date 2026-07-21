@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3093-longest-common-suffix-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3110-score-of-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
