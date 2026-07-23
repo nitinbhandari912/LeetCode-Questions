@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3701-compute-alternating-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3701-compute-alternating-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Interactive
