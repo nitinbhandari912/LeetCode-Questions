@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0415-add-strings) |
