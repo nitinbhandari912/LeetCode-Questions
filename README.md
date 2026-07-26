@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3701-compute-alternating-sum) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
