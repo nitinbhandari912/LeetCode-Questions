@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
