@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
