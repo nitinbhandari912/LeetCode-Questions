@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
@@ -632,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
