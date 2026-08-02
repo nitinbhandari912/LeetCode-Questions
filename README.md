@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
 ## Queue
 |  |
