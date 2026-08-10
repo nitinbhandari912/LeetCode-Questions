@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1668-maximum-repeating-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
@@ -682,4 +685,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
