@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3701-compute-alternating-sum) |
