@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0342-power-of-four) |
