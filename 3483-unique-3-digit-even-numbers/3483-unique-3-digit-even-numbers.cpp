@@ -1,25 +1,26 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        vector<int> count(10, 0);
-        for (int digit : digits) {
-            count[digit]++;
-        }
-        int result = 0;
-        for (int num = 100; num <= 998; num += 2) {
-            int hundreds = num / 100;
-            int tens = (num / 10) % 10;
-            int units = num % 10;
-            count[hundreds]--;
-            count[tens]--;
-            count[units]--;
-            if (count[hundreds] >= 0 && count[tens] >= 0 && count[units] >= 0) {
-                result++;
+        int cnt[10] = {};
+        for (int d : digits)
+            cnt[d]++;
+        int res = 0;
+        for (int a = 1; a <= 9; a++) {
+            if (cnt[a] == 0)
+                continue;
+            cnt[a]--;
+            for (int b = 0; b <= 9; b++) {
+                if (cnt[b] == 0)
+                    continue;
+                cnt[b]--;
+                for (int c = 0; c <= 8; c += 2) {
+                    if (cnt[c] > 0)
+                       res++;
+                }
+                cnt[b]++;
             }
-            count[hundreds]++;
-            count[tens]++;
-            count[units]++;
+            cnt[a]++;
         }
-        return result;
+        return res;
     }
 };
