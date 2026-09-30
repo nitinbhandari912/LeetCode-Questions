@@ -2,13 +2,11 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         if (s.size() <= 1) return s;
-
-        vector<pair<string, pair<int, int>>> vec;
+        vector<pair<int, int>> vec;
         for (int i = 0; i < s.size(); i++) {
             for (int j = i; j < s.size(); j++) {
                 if (s[i] == s[j]) {
-                    string charStr(1, s[i]); 
-                    vec.push_back({charStr, {i, j}});
+                    vec.push_back({i, j});
                 }
             }
         }
@@ -17,8 +15,8 @@ public:
         string a = "";
 
         for (int i = 0; i < vec.size(); i++) {
-            int j = vec[i].second.first;
-            int k = vec[i].second.second;
+            int j = vec[i].first;
+            int k = vec[i].second;
             
             int q = j;
             int z = k;
