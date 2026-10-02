@@ -762,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
