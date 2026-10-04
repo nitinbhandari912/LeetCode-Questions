@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -767,4 +771,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
