@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0383-ransom-note) |
@@ -240,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
