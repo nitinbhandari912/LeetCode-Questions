@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0039-combination-sum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
