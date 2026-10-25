@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
