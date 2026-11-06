@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2747-count-zero-request-servers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2747-count-zero-request-servers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
