@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
