@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/nitinbhandari912/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
